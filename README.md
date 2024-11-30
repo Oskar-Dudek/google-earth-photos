@@ -1,5 +1,7 @@
 <h1>Google imagery</h1>
 
+commit 67 is wrong its <strong>9/11 memorial</strong> and <strong>mt. everest</strong>
+
 <p>please contribute if you want to</p>
 
 <h2>contribute rules</h2>
